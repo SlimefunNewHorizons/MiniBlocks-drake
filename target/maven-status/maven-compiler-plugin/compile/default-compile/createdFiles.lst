@@ -1,0 +1,15 @@
+me/EzCoins/MiniBlocks/machines/BlockExpander.class
+me/EzCoins/MiniBlocks/abstracts/AbstractMachineBlock$2.class
+me/EzCoins/MiniBlocks/utils/CustomHead.class
+me/EzCoins/MiniBlocks/MiniBlocks.class
+me/EzCoins/MiniBlocks/abstracts/AbstractMachineBlock$3.class
+me/EzCoins/MiniBlocks/abstracts/AbstractMachineBlock$1.class
+me/EzCoins/MiniBlocks/utils/MiniBlockUtils.class
+me/EzCoins/MiniBlocks/core/MiniRecipeType.class
+me/EzCoins/MiniBlocks/core/MiniBlock.class
+me/EzCoins/MiniBlocks/abstracts/AbstractMachineBlock.class
+me/EzCoins/MiniBlocks/machines/BlockReducer.class
+me/EzCoins/MiniBlocks/utils/GUIBuilder.class
+me/EzCoins/MiniBlocks/core/Groups.class
+me/EzCoins/MiniBlocks/utils/GUIHeads.class
+me/EzCoins/MiniBlocks/itemsetup/ItemSetup.class
